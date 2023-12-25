@@ -1,6 +1,13 @@
 # Simple AWS LAMBDA - REST API Code with GET & POST ITEMS
 
 Name - ANAM CHAUDHARI
+
+
+
+
+
+
+
 LOOM Recording Link : https://www.loom.com/share/e4aa18ce0cca4be3bcbed22618c5fded?sid=2c9dd714-d089-45e4-a728-832884d3229a
 
 This project contains source code and supporting files for the serverless application that you created in the AWS Lambda console. You can update your application at any time by committing and pushing changes to your AWS CodeCommit or GitHub repository.
